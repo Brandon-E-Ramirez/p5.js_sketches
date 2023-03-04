@@ -1,0 +1,4 @@
+terminal: 
+
+code "filename.extension" : creates new file in current directory
+del "filename" : deletes said file

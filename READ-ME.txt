@@ -1,0 +1,8 @@
+Documentation: https://p5js.org/reference/
+Web-editor: https://editor.p5js.org/
+
+Extension: p5.vscode
+1. Click "Go Live" from bottom right corner to run 'sketch.js' on the browser
+2. Make sure to give saved sketches with uniques names to refer to later.
+3. Change: "<script src="sketch.js"></script>" .js file name when you work with a new file.
+4. Have fun!
